@@ -1,0 +1,17 @@
+# Environments
+venv/
+.env
+
+# Build and Packaging
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+
+# App Data
+Data/
